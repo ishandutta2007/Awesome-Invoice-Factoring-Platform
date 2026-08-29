@@ -42,65 +42,17 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[FundThrough](https://www.fundthrough.com/)**  
-
-  Invoice factoring platform that lets businesses factor individual invoices with no long-term contracts, offering flexible, on-demand access to working capital.
-
-
-
-- **[Resolve / Resolve Pay](https://resolvepay.com/)**  
-
-  B2B trade credit and invoice financing solutions that help sellers offer net terms while getting paid quickly, with buyer credit underwriting.
-
-
-
-- **[TreviPay](https://www.trevipay.com/)**  
-
-  Global B2B payments and trade credit platform that supports invoice financing, accounts receivable management, and buyer/seller networks.
-
-
-
-- **[BlueVine](https://www.bluevine.com/)**  
-
-  Popular small-business financing platform offering invoice factoring (and lines of credit) with competitive advance rates and relatively fast approval.
-
-
-
-- **[Drip Capital](https://www.dripcapital.com/)**  
-
-  Trade and export invoice financing platform focused on cross-border receivables, particularly strong for exporters in emerging markets.
-
-
-
-- **[Fundbox](https://www.fundbox.com/)**  
-
-  Working-capital platform that provides invoice-based financing and credit lines designed for small businesses needing quick cash against receivables.
-
-
-
-- **[PrimeRevenue](https://www.primerevenue.com/)**  
-
-  Enterprise supply-chain finance and working-capital platform used by large corporates to run supplier financing and early-payment programs.
-
-
-
-- **[Taulia (SAP)](https://taulia.com/)**  
-
-  Working-capital and supply-chain finance platform (now part of SAP) that enables dynamic discounting and supplier early-payment programs.
-
-
-
-- **[C2FO](https://www.c2fo.com/)**  
-
-  Global working-capital marketplace that connects buyers and suppliers for early payment and invoice financing through competitive auctions and programs.
-
-
-
-- **[Other notable platforms](https://www.fundthrough.com/)**  
-
-  Additional players in the broader invoice financing and supply-chain finance space include various regional and vertical specialists serving trucking, staffing, manufacturing, and export markets.
+| Platform | Category / Focus | Starting Pricing | Free Tier / Trial Limits | Description & Highlights |
+| :--- | :--- | :--- | :--- | :--- |
+| **[FundThrough](https://www.fundthrough.com/)** | On-Demand B2B Invoice Factoring | **1.90% – 2.90% per 30 days** on funded invoices ($0 monthly subscription / maintenance fee) | **Free Forever Account**: $0/mo base access, unlimited accounting software integration (QuickBooks/Xero); requires min. $100,000 outstanding AR to one debtor for initial funding | Selective single-invoice factoring, 100% advance rate minus fee, funds within 24–48 hours without long-term volume contracts. |
+| **[Resolve / Resolve Pay](https://resolvepay.com/)** | B2B Net Terms & Invoice Financing | **3.50% flat transaction fee** per financed invoice ($0 setup fee, $0 monthly subscription) | **Free Forever Portal**: $0/mo tier includes credit underwriting checks, customer payment portal, and standard net terms invoicing without factoring | B2B "Buy Now, Pay Later" (BNPL), non-recourse invoice advances (up to 100% upfront within 1 business day), automates credit decisions. |
+| **[TreviPay](https://www.trevipay.com/)** | Global B2B Trade Credit & Payments Network | **~1.50% – 2.50% per transaction** (reported starting base plans from $200/month for small enterprise networks) | **30-Day Sandbox Pilot**: Access to API staging sandbox and test buyer onboarding for 30 days upon sales demo request (no live transactions funded free) | Cross-border trade credit, automated A/R management, buyer credit risk assumption, multi-currency settlement. |
+| **[Bluevine](https://www.bluevine.com/)** | Business Line of Credit & Banking | **4.80% simple interest** starting rate (approx. 0.25%/week) on drawn credit lines up to $250,000 | **Free Forever Standard Plan** ($0/mo, unlimited standard ACH & transactions) + **30-Day Free Trial** on Plus/Premier tiers ($30–$95/mo fee waived during trial) | Fast credit approval within 24 hours, revolving credit access against company cashflow, dashboard draw review. |
+| **[Drip Capital](https://www.dripcapital.com/)** | Export & Cross-Border Invoice Financing | **0.80% – 1.40% per month** discount rate (approx. 12%–18% APR) + $0 application/origination fees | **Free Forever Registration**: $0 sign-up, soft buyer credit limit check with zero commitment; fees only accrue upon invoice disbursement | Specializes in international exporters and trade receivables, provides up to 80%–90% upfront cash advances. |
+| **[Fundbox](https://www.fundbox.com/)** | Working Capital & Invoice Credit Lines | **4.66% flat fee** per 12-week draw (or 8.99% for 24 weeks) on credit lines up to $250,000 | **Free Forever Account**: $0 sign-up, $0 monthly maintenance fee, soft credit check; zero fees incurred until funds are drawn | Automated sync with accounting tools (QuickBooks, FreshBooks), next-day funding, automatic weekly repayments. |
+| **[PrimeRevenue](https://www.primerevenue.com/)** | Enterprise Supply Chain Finance (Reverse Factoring) | **SOFR + 0.50% to 1.75% annualized** financing discount on early supplier invoice payouts | **Free Forever for Suppliers**: $0 subscription or platform fees; unlimited invoice status visibility and PO tracking; fees apply only upon early settlement request | Multi-funder bank marketplace, dynamic discounting and reverse factoring for global enterprise supply chains. |
+| **[Taulia (SAP)](https://taulia.com/)** | Dynamic Discounting & Working Capital | **0.50% – 1.50% dynamic discount** per 30-day early settlement (buyer or third-party bank funded) | **Free Forever for Suppliers**: $0 supplier portal fee, unlimited PO/invoice tracking, electronic invoicing, and payment scheduling | Native SAP integration, AI-driven cash forecasting, dynamic discounting auction matrix. |
+| **[C2FO](https://www.c2fo.com/)** | Working Capital Marketplace & Early Payment | **~0.50% – 2.00% APR-equivalent** dynamic discount via *Name Your Rate®* auction mechanism | **Free Forever for Suppliers**: $0 registration, $0 membership fees, unlimited invoice tracking; discount deducted only on accepted early payment offers | Supplier-driven discount bidding, directly funded by enterprise buyers' cash reserves or funding partners. |
 
 
 
